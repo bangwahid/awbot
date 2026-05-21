@@ -1,0 +1,43 @@
+[
+  { "soal": "Berapakah percepatan gravitasi bumi?", "pilihan": ["9.8 m/s²", "10 m/s²", "8 m/s²", "12 m/s²"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Satuan gaya adalah?", "pilihan": ["Newton", "Joule", "Watt", "Pascal"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Hukum Newton 1 disebut?", "pilihan": ["Inersia", "Aksi reaksi", "Gravitasi", "Energi"], "jawaban": "A", "level": "sedang" },
+  { "soal": "Alat ukur suhu?", "pilihan": ["Termometer", "Barometer", "Higrometer", "Anemometer"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Kecepatan adalah?", "pilihan": ["Jarak/waktu", "Waktu/jarak", "Gaya/massa", "Energi/waktu"], "jawaban": "A", "level": "mudah" },
+
+  { "soal": "Satuan energi?", "pilihan": ["Joule", "Newton", "Watt", "Volt"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Rumus gaya?", "pilihan": ["F = m × a", "F = m / a", "F = a / m", "F = m + a"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Satuan daya?", "pilihan": ["Watt", "Volt", "Ampere", "Ohm"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Hukum Ohm?", "pilihan": ["V = I × R", "V = I / R", "V = R / I", "V = I + R"], "jawaban": "A", "level": "sedang" },
+  { "soal": "Arus listrik diukur dengan?", "pilihan": ["Amperemeter", "Voltmeter", "Barometer", "Termometer"], "jawaban": "A", "level": "mudah" },
+
+  { "soal": "Satuan tegangan?", "pilihan": ["Volt", "Watt", "Joule", "Newton"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Gelombang bunyi?", "pilihan": ["Longitudinal", "Transversal", "EM", "Stasioner"], "jawaban": "A", "level": "sedang" },
+  { "soal": "Cahaya adalah gelombang?", "pilihan": ["EM", "Mekanik", "Longitudinal", "Suara"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Frekuensi satuannya?", "pilihan": ["Hertz", "Newton", "Watt", "Joule"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Usaha rumus?", "pilihan": ["W = F × s", "W = m × a", "W = V × I", "W = F / s"], "jawaban": "A", "level": "mudah" },
+
+  { "soal": "Satuan usaha?", "pilihan": ["Joule", "Newton", "Watt", "Pascal"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Tekanan adalah?", "pilihan": ["F/A", "F×A", "m/v", "v/t"], "jawaban": "A", "level": "sedang" },
+  { "soal": "Satuan tekanan?", "pilihan": ["Pascal", "Newton", "Watt", "Joule"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Alat tekanan udara?", "pilihan": ["Barometer", "Termometer", "Amperemeter", "Higrometer"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Gaya gesek berlawanan dengan?", "pilihan": ["Gerak", "Massa", "Energi", "Waktu"], "jawaban": "A", "level": "mudah" },
+
+  { "soal": "Energi kinetik dipengaruhi?", "pilihan": ["massa & kecepatan", "waktu & gaya", "suhu", "volume"], "jawaban": "A", "level": "sedang" },
+  { "soal": "Rumus energi kinetik?", "pilihan": ["½mv²", "mv", "ma", "Fs"], "jawaban": "A", "level": "sedang" },
+  { "soal": "Massa satuan?", "pilihan": ["Kg", "Newton", "Joule", "Watt"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Alat ukur massa?", "pilihan": ["Neraca", "Barometer", "Termometer", "Volt meter"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Hukum Newton 2?", "pilihan": ["F = m×a", "F = m/a", "F = a/m", "F = m+a"], "jawaban": "A", "level": "mudah" },
+
+  { "soal": "Energi potensial dipengaruhi?", "pilihan": ["massa & ketinggian", "waktu", "arus", "volume"], "jawaban": "A", "level": "sedang" },
+  { "soal": "Rumus energi potensial?", "pilihan": ["mgh", "mv²", "ma", "Fs"], "jawaban": "A", "level": "sedang" },
+  { "soal": "Satuan daya listrik?", "pilihan": ["Watt", "Volt", "Ampere", "Ohm"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Alat ukur tegangan?", "pilihan": ["Voltmeter", "Amperemeter", "Barometer", "Termometer"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Rangkaian seri arus?", "pilihan": ["Sama", "Beda", "Hilang", "Acak"], "jawaban": "A", "level": "sedang" },
+
+  { "soal": "Rangkaian paralel tegangan?", "pilihan": ["Sama", "Beda", "Hilang", "Naik"], "jawaban": "A", "level": "sedang" },
+  { "soal": "Satuan listrik kuat arus?", "pilihan": ["Ampere", "Volt", "Watt", "Joule"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Hambatan satuan?", "pilihan": ["Ohm", "Volt", "Ampere", "Watt"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Rumus Ohm?", "pilihan": ["V=IR", "V=I/R", "V=R/I", "V=I+R"], "jawaban": "A", "level": "mudah" },
+  { "soal": "Energi listrik rumus?", "pilihan": ["V×I×t", "m×a", "F×s", "mgh"], "jawaban": "A", "level": "sedang" }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "question": "Dimana asal negara klub PSM Makassar?",
+    "options": [
+      "Spain",
+      "Indonesia",
+      "Italy",
+      "Portugal"
+    ],
+    "answer": "Indonesia",
+    "club": "PSM Makassar"
+  },
+  {
+    "question": "Tottenham Hotspur adalah klub dari negara?",
+    "options": [
+      "Italy",
+      "Indonesia",
+      "England",
+      "Netherlands"
+    ],
+    "answer": "England",
+    "club": "Tottenham Hotspur"
+  },
+  {
+    "question": "Dimana asal negara klub Persebaya Surabaya?",
+    "options": [
+      "France",
+      "Italy",
+      "Indonesia",
+      "Netherlands"
+    ],
+    "answer": "Indonesia",
+    "club": "Persebaya Surabaya"
+  },
+  {
+    "question": "Arema FC adalah klub dari negara?",
+    "options": [
+      "Germany",
+      "Portugal",
+      "Spain",
+      "Indonesia"
+    ],
+    "answer": "Indonesia",
+    "club": "Arema FC"
+  },
+  {
+    "question": "Klub Atletico Madrid berasal dari?",
+    "options": [
+      "Spain",
+      "Portugal",
+      "Germany",
+      "Indonesia"
+    ],
+    "answer": "Spain",
+    "club": "Atletico Madrid"
+  },
+  {
+    "question": "Klub Arema FC berasal dari?",
+    "options": [
+      "Indonesia",
+      "Italy",
+      "Spain",
+      "England"
+    ],
+    "answer": "Indonesia",
+    "club": "Arema FC"
+  },
+  {
+    "question": "Klub Inter Milan berasal dari?",
+    "options": [
+      "Portugal",
+      "Indonesia",
+      "Italy",
+      "Germany"
+    ],
+    "answer": "Italy",
+    "club": "Inter Milan"
+  },
+  {
+    "question": "Klub PSIS Semarang berasal dari?",
+    "options": [
+      "Germany",
+      "Indonesia",
+      "Netherlands",
+      "Portugal"
+    ],
+    "answer": "Indonesia",
+    "club": "PSIS Semarang"
+  },
+  {
+    "question": "Chelsea adalah klub dari negara?",
+    "options": [
+      "Indonesia",
+      "England",
+      "Netherlands",
+      "Germany"
+    ],
+    "answer": "England",
+    "club": "Chelsea"
+  },
+  {
+    "question": "Dimana asal negara klub PSS Sleman?",
+    "options": [
+      "Indonesia",
+      "Spain",
+      "Netherlands",
+      "England"
+    ],
+    "answer": "Indonesia",
+    "club": "PSS Sleman"
+  },
+  {
+    "question": "Club sepak bola Inter Milan berasal dari negara mana?",
+    "options": [
+      "Spain",
+      "Indonesia",
+      "Germany",
+      "Italy"
+    ],
+    "answer": "Italy",
+    "club": "Inter Milan"
+  },
+  {
+    "question": "PSIS Semarang adalah klub dari negara?",
+    "options": [
+      "Indonesia",
+      "Netherlands",
+      "Italy",
+      "Germany"
+    ],
+    "answer": "Indonesia",
+    "club": "PSIS Semarang"
+  },
+  {
+    "question": "Dimana asal negara klub Madura United?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Indonesia",
+      "France"
+    ],
+    "answer": "Indonesia",
+    "club": "Madura United"
+  },
+  {
+    "question": "Klub Arema FC berasal dari?",
+    "options": [
+      "Portugal",
+      "France",
+      "Indonesia",
+      "Netherlands"
+    ],
+    "answer": "Indonesia",
+    "club": "Arema FC"
+  },
+  {
+    "question": "Persib Bandung adalah klub dari negara?",
+    "options": [
+      "Portugal",
+      "Indonesia",
+      "Italy",
+      "France"
+    ],
+    "answer": "Indonesia",
+    "club": "Persib Bandung"
+  },
+  {
+    "question": "Dimana asal negara klub Juventus?",
+    "options": [
+      "Indonesia",
+      "France",
+      "Italy",
+      "England"
+    ],
+    "answer": "Italy",
+    "club": "Juventus"
+  },
+  {
+    "question": "Club sepak bola Bayern Munich berasal dari negara mana?",
+    "options": [
+      "Indonesia",
+      "Germany",
+      "England",
+      "Portugal"
+    ],
+    "answer": "Germany",
+    "club": "Bayern Munich"
+  },
+  {
+    "question": "Dimana asal negara klub PSIS Semarang?",
+    "options": [
+      "Italy",
+      "Indonesia",
+      "England",
+      "Spain"
+    ],
+    "answer": "Indonesia",
+    "club": "PSIS Semarang"
+  },
+  {
+    "question": "Dimana asal negara klub Real Madrid?",
+    "options": [
+      "Indonesia",
+      "Portugal",
+      "England",
+      "Spain"
+    ],
+    "answer": "Spain",
+    "club": "Real Madrid"
+  },
+  {
+    "question": "Dimana asal negara klub Madura United?",
+    "options": [
+      "Spain",
+      "Portugal",
+      "England",
+      "Indonesia"
+    ],
+    "answer": "Indonesia",
+    "club": "Madura United"
+  },
+  {
+    "question": "Club sepak bola Tottenham Hotspur berasal dari negara mana?",
+    "options": [
+      "Italy",
+      "Indonesia",
+      "France",
+      "England"
+    ],
+    "answer": "England",
+    "club": "Tottenham Hotspur"
+  },
+  {
+    "question": "Borussia Dortmund adalah klub dari negara?",
+    "options": [
+      "Netherlands",
+      "Germany",
+      "Spain",
+      "England"
+    ],
+    "answer": "Germany",
+    "club": "Borussia Dortmund"
+  },
+  {
+    "question": "Arema FC adalah klub dari negara?",
+    "options": [
+      "Spain",
+      "Indonesia",
+      "France",
+      "Netherlands"
+    ],
+    "answer": "Indonesia",
+    "club": "Arema FC"
+  },
+  {
+    "question": "Persija Jakarta adalah klub dari negara?",
+    "options": [
+      "Portugal",
+      "Italy",
+      "Germany",
+      "Indonesia"
+    ],
+    "answer": "Indonesia",
+    "club": "Persija Jakarta"
+  },
+  {
+    "question": "Manchester United adalah klub dari negara?",
+    "options": [
+      "Italy",
+      "Portugal",
+      "England",
+      "Indonesia"
+    ],
+    "answer": "England",
+    "club": "Manchester United"
+  },
+  {
+    "question": "Club sepak bola Barcelona berasal dari negara mana?",
+    "options": [
+      "Germany",
+      "Italy",
+      "Spain",
+      "Portugal"
+    ],
+    "answer": "Spain",
+    "club": "Barcelona"
+  },
+  {
+    "question": "Tottenham Hotspur adalah klub dari negara?",
+    "options": [
+      "Italy",
+      "Portugal",
+      "Indonesia",
+      "England"
+    ],
+    "answer": "England",
+    "club": "Tottenham Hotspur"
+  },
+  {
+    "question": "Bali United adalah klub dari negara?",
+    "options": [
+      "France",
+      "Netherlands",
+      "Portugal",
+      "Indonesia"
+    ],
+    "answer": "Indonesia",
+    "club": "Bali United"
+  },
+  {
+    "question": "Klub Bayern Munich berasal dari?",
+    "options": [
+      "Indonesia",
+      "Germany",
+      "Spain",
+      "Portugal"
+    ],
+    "answer": "Germany",
+    "club": "Bayern Munich"
+  },
+  {
+    "question": "Dimana asal negara klub Persebaya Surabaya?",
+    "options": [
+      "France",
+      "Spain",
+      "Indonesia",
+      "Netherlands"
+    ],
+    "answer": "Indonesia",
+    "club": "Persebaya Surabaya"
+  },
+  {
+    "question": "Tottenham Hotspur adalah klub dari negara?",
+    "options": [
+      "Germany",
+      "Indonesia",
+      "France",
+      "England"
+    ],
+    "answer": "England",
+    "club": "Tottenham Hotspur"
+  },
+  {
+    "question": "Club sepak bola PSIS Semarang berasal dari negara mana?",
+    "options": [
+      "Spain",
+      "Germany",
+      "Indonesia",
+      "England"
+    ],
+    "answer": "Indonesia",
+    "club": "PSIS Semarang"
+  },
+  {
+    "question": "Tottenham Hotspur adalah klub dari negara?",
+    "options": [
+      "Italy",
+      "Portugal",
+      "Spain",
+      "England"
+    ],
+    "answer": "England",
+    "club": "Tottenham Hotspur"
+  },
+  {
+    "question": "Klub Atletico Madrid berasal dari?",
+    "options": [
+      "Italy",
+      "Spain",
+      "Portugal",
+      "Indonesia"
+    ],
+    "answer": "Spain",
+    "club": "Atletico Madrid"
+  },
+  {
+    "question": "Club sepak bola Juventus berasal dari negara mana?",
+    "options": [
+      "Italy",
+      "Germany",
+      "England",
+      "France"
+    ],
+    "answer": "Italy",
+    "club": "Juventus"
+  },
+  {
+    "question": "Klub Manchester United berasal dari?",
+    "options": [
+      "England",
+      "Italy",
+      "Spain",
+      "Indonesia"
+    ],
+    "answer": "England",
+    "club": "Manchester United"
+  },
+  {
+    "question": "Liverpool adalah klub dari negara?",
+    "options": [
+      "France",
+      "England",
+      "Spain",
+      "Indonesia"
+    ],
+    "answer": "England",
+    "club": "Liverpool"
+  },
+  {
+    "question": "Club sepak bola Atletico Madrid berasal dari negara mana?",
+    "options": [
+      "England",
+      "Germany",
+      "Indonesia",
+      "Spain"
+    ],
+    "answer": "Spain",
+    "club": "Atletico Madrid"
+  },
+  {
+    "question": "Klub PSM Makassar berasal dari?",
+    "options": [
+      "Indonesia",
+      "Netherlands",
+      "Italy",
+      "England"
+    ],
+    "answer": "Indonesia",
+    "club": "PSM Makassar"
+  },
+  {
+    "question": "Club sepak bola Manchester United berasal dari negara mana?",
+    "options": [
+      "Germany",
+      "England",
+      "Indonesia",
+      "France"
+    ],
+    "answer": "England",
+    "club": "Manchester United"
+  },
+  {
+    "question": "Club sepak bola Madura United berasal dari negara mana?",
+    "options": [
+      "France",
+      "Germany",
+      "Spain",
+      "Indonesia"
+    ],
+    "answer": "Indonesia",
+    "club": "Madura United"
+  },
+  {
+    "question": "Klub Bali United berasal dari?",
+    "options": [
+      "Italy",
+      "Netherlands",
+      "France",
+      "Indonesia"
+    ],
+    "answer": "Indonesia",
+    "club": "Bali United"
+  },
+  {
+    "question": "Paris Saint-Germain adalah klub dari negara?",
+    "options": [
+      "Portugal",
+      "England",
+      "Italy",
+      "France"
+    ],
+    "answer": "France",
+    "club": "Paris Saint-Germain"
+  },
+  {
+    "question": "Klub Sevilla FC berasal dari?",
+    "options": [
+      "Germany",
+      "France",
+      "Spain",
+      "Indonesia"
+    ],
+    "answer": "Spain",
+    "club": "Sevilla FC"
+  },
+  {
+    "question": "Dimana asal negara klub Atletico Madrid?",
+    "options": [
+      "England",
+      "France",
+      "Spain",
+      "Germany"
+    ],
+    "answer": "Spain",
+    "club": "Atletico Madrid"
+  },
+  {
+    "question": "Klub Arsenal berasal dari?",
+    "options": [
+      "Spain",
+      "England",
+      "Indonesia",
+      "Italy"
+    ],
+    "answer": "England",
+    "club": "Arsenal"
+  },
+  {
+    "question": "Dimana asal negara klub Paris Saint-Germain?",
+    "options": [
+      "France",
+      "Germany",
+      "Italy",
+      "England"
+    ],
+    "answer": "France",
+    "club": "Paris Saint-Germain"
+  },
+  {
+    "question": "Klub Chelsea berasal dari?",
+    "options": [
+      "England",
+      "Portugal",
+      "Indonesia",
+      "France"
+    ],
+    "answer": "England",
+    "club": "Chelsea"
+  },
+  {
+    "question": "Chelsea adalah klub dari negara?",
+    "options": [
+      "Indonesia",
+      "Netherlands",
+      "France",
+      "England"
+    ],
+    "answer": "England",
+    "club": "Chelsea"
+  },
+  {
+    "question": "Bayern Munich adalah klub dari negara?",
+    "options": [
+      "Indonesia",
+      "Portugal",
+      "Italy",
+      "Germany"
+    ],
+    "answer": "Germany",
+    "club": "Bayern Munich"
+  }
+]

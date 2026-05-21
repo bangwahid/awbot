@@ -1,0 +1,234 @@
+[
+  {
+    "soal": "🐱",
+    "jawaban": "kucing",
+    "deskripsi": "Hewan peliharaan yang suka mengeong"
+  },
+  {
+    "soal": "🐶",
+    "jawaban": "anjing",
+    "deskripsi": "Hewan peliharaan yang suka menggonggong"
+  },
+  {
+    "soal": "🍔",
+    "jawaban": "burger",
+    "deskripsi": "Makanan cepat saji isi daging"
+  },
+  {
+    "soal": "🍕",
+    "jawaban": "pizza",
+    "deskripsi": "Makanan bundar khas Italia"
+  },
+  {
+    "soal": "🍟",
+    "jawaban": "kentang goreng",
+    "deskripsi": "Cemilan dari kentang"
+  },
+  {
+    "soal": "🍩",
+    "jawaban": "donat",
+    "deskripsi": "Roti manis berlubang"
+  },
+  {
+    "soal": "🍦",
+    "jawaban": "es krim",
+    "deskripsi": "Makanan dingin dan manis"
+  },
+  {
+    "soal": "🍎",
+    "jawaban": "apel",
+    "deskripsi": "Buah merah atau hijau"
+  },
+  {
+    "soal": "🍌",
+    "jawaban": "pisang",
+    "deskripsi": "Buah kuning panjang"
+  },
+  {
+    "soal": "🍉",
+    "jawaban": "semangka",
+    "deskripsi": "Buah besar berwarna hijau"
+  },
+
+  {
+    "soal": "🚗",
+    "jawaban": "mobil",
+    "deskripsi": "Kendaraan roda empat"
+  },
+  {
+    "soal": "🏍️",
+    "jawaban": "motor",
+    "deskripsi": "Kendaraan roda dua"
+  },
+  {
+    "soal": "✈️",
+    "jawaban": "pesawat",
+    "deskripsi": "Transportasi udara"
+  },
+  {
+    "soal": "🚂",
+    "jawaban": "kereta api",
+    "deskripsi": "Transportasi di rel"
+  },
+  {
+    "soal": "🚲",
+    "jawaban": "sepeda",
+    "deskripsi": "Kendaraan dikayuh"
+  },
+
+  {
+    "soal": "⚽",
+    "jawaban": "sepak bola",
+    "deskripsi": "Olahraga paling populer"
+  },
+  {
+    "soal": "🏀",
+    "jawaban": "basket",
+    "deskripsi": "Olahraga dengan ring"
+  },
+  {
+    "soal": "🏸",
+    "jawaban": "badminton",
+    "deskripsi": "Olahraga raket"
+  },
+  {
+    "soal": "🎮",
+    "jawaban": "game",
+    "deskripsi": "Permainan digital"
+  },
+  {
+    "soal": "🎧",
+    "jawaban": "headset",
+    "deskripsi": "Alat mendengarkan musik"
+  },
+
+  {
+    "soal": "📱",
+    "jawaban": "handphone",
+    "deskripsi": "Alat komunikasi modern"
+  },
+  {
+    "soal": "💻",
+    "jawaban": "laptop",
+    "deskripsi": "Komputer portabel"
+  },
+  {
+    "soal": "🖥️",
+    "jawaban": "komputer",
+    "deskripsi": "Perangkat elektronik kerja"
+  },
+  {
+    "soal": "⌚",
+    "jawaban": "jam tangan",
+    "deskripsi": "Penunjuk waktu"
+  },
+  {
+    "soal": "📷",
+    "jawaban": "kamera",
+    "deskripsi": "Alat mengambil foto"
+  },
+
+  {
+    "soal": "🌧️",
+    "jawaban": "hujan",
+    "deskripsi": "Air turun dari langit"
+  },
+  {
+    "soal": "☀️",
+    "jawaban": "matahari",
+    "deskripsi": "Benda panas di langit"
+  },
+  {
+    "soal": "🌙",
+    "jawaban": "bulan",
+    "deskripsi": "Terlihat di malam hari"
+  },
+  {
+    "soal": "⭐",
+    "jawaban": "bintang",
+    "deskripsi": "Berkelap-kelip di langit"
+  },
+  {
+    "soal": "🔥",
+    "jawaban": "api",
+    "deskripsi": "Panas dan membakar"
+  },
+
+  {
+    "soal": "👑",
+    "jawaban": "mahkota",
+    "deskripsi": "Dipakai raja"
+  },
+  {
+    "soal": "💍",
+    "jawaban": "cincin",
+    "deskripsi": "Perhiasan jari"
+  },
+  {
+    "soal": "🎒",
+    "jawaban": "tas",
+    "deskripsi": "Untuk membawa barang"
+  },
+  {
+    "soal": "👟",
+    "jawaban": "sepatu",
+    "deskripsi": "Dipakai di kaki"
+  },
+  {
+    "soal": "🧢",
+    "jawaban": "topi",
+    "deskripsi": "Dipakai di kepala"
+  },
+
+  {
+    "soal": "👻",
+    "jawaban": "hantu",
+    "deskripsi": "Makhluk menyeramkan"
+  },
+  {
+    "soal": "🤖",
+    "jawaban": "robot",
+    "deskripsi": "Mesin pintar"
+  },
+  {
+    "soal": "🦖",
+    "jawaban": "dinosaurus",
+    "deskripsi": "Hewan purba besar"
+  },
+  {
+    "soal": "🐉",
+    "jawaban": "naga",
+    "deskripsi": "Makhluk mitologi"
+  },
+  {
+    "soal": "🧙",
+    "jawaban": "penyihir",
+    "deskripsi": "Ahli sihir"
+  },
+
+  {
+    "soal": "🎤",
+    "jawaban": "mikrofon",
+    "deskripsi": "Alat untuk bernyanyi"
+  },
+  {
+    "soal": "🎸",
+    "jawaban": "gitar",
+    "deskripsi": "Alat musik berdawai"
+  },
+  {
+    "soal": "🥁",
+    "jawaban": "drum",
+    "deskripsi": "Alat musik dipukul"
+  },
+  {
+    "soal": "🎹",
+    "jawaban": "piano",
+    "deskripsi": "Alat musik dengan tuts"
+  },
+  {
+    "soal": "🎻",
+    "jawaban": "biola",
+    "deskripsi": "Alat musik digesek"
+  }
+]

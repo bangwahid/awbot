@@ -1,6 +1,6 @@
 const axios = require('axios')
 
-const API_KEY = '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'
+const API_KEY = 'Your APIKEY'
 const API = 'https://api.groq.com/openai/v1/chat/completions'
 
 let handler = async (m, { text, conn }) => {
